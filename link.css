@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+    line-height: 3em;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: rgb(153,153,153);
+}
+
+th{
+    width: 30%;
+    font-weight: normal;
+    color: #666;
+}
+
+.th{
+    text-align: left;
+    padding-left: 10px;
+    background-color: rgb(238,238,238);
+    font-weight: normal;
+}
+
+td{
+    color: #666;
+    padding-left: 10px;
+}
+
+.size{
+    margin: 0 auto;
+}
